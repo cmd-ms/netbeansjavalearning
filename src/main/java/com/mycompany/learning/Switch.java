@@ -57,6 +57,6 @@ There is no need for more testing. */
 /*The default Keyword
 The default keyword specifies some code to run if there is no case match:
 Note that if the default statement is used as the last statement in a switch block, it does not need a break. */
-
+        System.out.println("new me");
     }
 }
